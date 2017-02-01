@@ -13,3 +13,6 @@ inoremap '      ''<Left>
 inoremap {      {}<Left>
 inoremap "      ""<Left>
 inoremap [      []<Left>
+vmap u <Nop>
+vmap U <Nop>
+vmap ~ <Nop>
