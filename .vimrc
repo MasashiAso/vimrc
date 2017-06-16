@@ -1,5 +1,7 @@
 filetype plugin indent on
 " show existing tab with 4 spaces width
+set number
+set cursorline
 set tabstop=4
 set shiftwidth=4
 set expandtab
@@ -16,3 +18,4 @@ inoremap [      []<Left>
 vmap u <Nop>
 vmap U <Nop>
 vmap ~ <Nop>
+:syntax on
